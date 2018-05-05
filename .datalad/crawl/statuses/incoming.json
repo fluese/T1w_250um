@@ -1,0 +1,25 @@
+{
+  "db_version": 1,
+  "files": {
+    "MPRAGE_250um.tar": {
+      "filename": "MPRAGE_250um.tar",
+      "mtime": 1489159325,
+      "size": 1635077632
+    },
+    "averages.tar": {
+      "filename": "averages.tar",
+      "mtime": 1515051016,
+      "size": 6533602816
+    },
+    "derivatives.tar": {
+      "filename": "derivatives.tar",
+      "mtime": 1515051016,
+      "size": 6608002048
+    },
+    "sourcedata.tar": {
+      "filename": "sourcedata.tar",
+      "mtime": 1489159335,
+      "size": 5916087296
+    }
+  }
+}
