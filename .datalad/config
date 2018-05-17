@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = c8339e6a-502f-11e8-b2ed-a0369fb55db0
+[datalad "metadata"]
+	nativetype = datacite
