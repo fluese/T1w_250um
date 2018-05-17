@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mets="http://www.loc.gov/METS/" xmlns:dspace="http://www.dspace.org/xmlns/dspace/dim" xmlns:dim="http://www.dspace.org/xmlns/dspace/dim" xmlns:dryad="http://purl.org/dryad/terms/" xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+  <identifier identifierType="DOI">10.5061/DRYAD.38S74</identifier>
+  <version>1</version>
+  <creators>
+    <creator>
+      <creatorName>Lüsebrink, Falk</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Sciarra, Alessandro</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Mattern, Hendrik</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Yakupov, Renat</creatorName>
+    </creator>
+    <creator>
+      <creatorName>Speck, Oliver</creatorName>
+    </creator>
+  </creators>
+  <titles>
+    <title>Data from: T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic resolution of 250 μm</title>
+  </titles>
+  <publisher>Dryad Digital Repository</publisher>
+  <publicationYear>2017</publicationYear>
+  <subjects>
+    <subject>ultra high resolution mri</subject>
+    <subject>brain imaging</subject>
+    <subject>neuroanatomy</subject>
+    <subject>prospective motion correction</subject>
+  </subjects>
+  <resourceType resourceTypeGeneral="Dataset">DataPackage</resourceType>
+  <alternateIdentifiers>
+    <alternateIdentifier alternateIdentifierType="citation">Lüsebrink F, Sciarra A, Mattern H, Yakupov R, Speck O (2017) T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic resolution of 250 μm. Scientific Data 4: 170032.</alternateIdentifier>
+    <alternateIdentifier alternateIdentifierType="issn">2052-4463</alternateIdentifier>
+  </alternateIdentifiers>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.38S74/6</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.38S74/7</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.38S74/8</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="HasPart">10.5061/DRYAD.38S74/9</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsReferencedBy">10.1038/SDATA.2017.32</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="DOI" relationType="IsSupplementTo">10.1038/SDATA.2017.32</relatedIdentifier>
+  </relatedIdentifiers>
+  <rightsList>
+    <rights rightsURI="http://creativecommons.org/publicdomain/zero/1.0/"/>
+  </rightsList>
+</resource>
