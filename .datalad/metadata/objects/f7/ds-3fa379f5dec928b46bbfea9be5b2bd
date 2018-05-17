@@ -1,0 +1,66 @@
+{
+"@context":
+{
+"@vocab":
+"http://docs.datalad.org/schema_v2.0.json"
+},
+"datacite":
+{
+"author":
+[
+"Lüsebrink, Falk",
+"Sciarra, Alessandro",
+"Mattern, Hendrik",
+"Yakupov, Renat",
+"Speck, Oliver"
+],
+"citation":
+[
+"10.5061/DRYAD.38S74/6",
+"10.5061/DRYAD.38S74/7",
+"10.5061/DRYAD.38S74/8",
+"10.5061/DRYAD.38S74/9",
+"10.1038/SDATA.2017.32",
+"10.1038/SDATA.2017.32"
+],
+"sameas":
+"10.5061/DRYAD.38S74",
+"shortdescription":
+"Data from: T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic resolution of 250 μm",
+"tag":
+[
+"ultra high resolution mri",
+"brain imaging",
+"neuroanatomy",
+"prospective motion correction"
+],
+"version":
+"1"
+},
+"datalad_core":
+{
+"@id":
+"c8339e6a-502f-11e8-b2ed-a0369fb55db0",
+"refcommit":
+"153373309ff170f51557a16d4b0108cc6f7b0fb1"
+},
+"datalad_unique_content_properties":
+{
+"annex":
+{
+"fname":
+[
+"sub-01/ses-05/anat/sub-01_ses-05_run-02_T1w_derivatives.nii.gz"
+]
+},
+"datalad_core":
+{
+"url":
+[
+[
+"http://hiresmri.ovgu.de/data/Repository/sub-01/ses-05/anat/sub-01_ses-05_run-02_T1w_derivatives.nii.gz"
+]
+]
+}
+}
+}
