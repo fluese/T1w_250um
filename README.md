@@ -1,5 +1,7 @@
 # T1-weighted in vivo human whole brain MRI dataset with an ultrahigh isotropic resolution of 250 μm
 
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 This data set is supplementary to the ultra high resolution T1-weighted MPRAGE
 data set with an isotropic resolution of 250 µm. It consists of the source data
 used to generate the resulting data set by averaging. Each volulme has a native
