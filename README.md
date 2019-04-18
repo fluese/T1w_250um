@@ -4,7 +4,7 @@
 
 This data set is supplementary to the ultra high resolution T1-weighted MPRAGE
 data set with an isotropic resolution of 250 µm. It consists of the source data
-used to generate the resulting data set by averaging. Each volulme has a native
+used to generate the resulting data set by averaging. Each volume has a native
 isotropic resolution of 250 µm with a total number of eight volumes.
 Additionally, a PD-weighted GRE was acquired in the first session. Furthermore,
 isotropic 1 and 0.5 mm T1-weighted data of the same subject acquired with the
